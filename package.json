@@ -1,0 +1,20 @@
+{
+  "name": "prettier-plugin-sort-exports",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx prettier --write test.ts"
+  },
+  "author": "Alex Araújo",
+  "license": "ISC",
+  "description": "A Prettier plugin to move named exports to the end of the file.",
+  "keywords": [
+    "prettier",
+    "plugin",
+    "exports"
+  ]
+}
