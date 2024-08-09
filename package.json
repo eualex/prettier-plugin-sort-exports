@@ -19,6 +19,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/eualex/prettier-plugin-sort-exports"
+    "url": "https://github.com/eualex/prettier-plugin-sort-exports.git"
   }
 }
